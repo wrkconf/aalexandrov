@@ -6,11 +6,11 @@ package ru.job4j;
   * @since 14.01.2018
   * @version 1
  */ 
-class Calculate{
+class Calculate {
 	/**
 	* Метод main (точка входа)
 	*/
-	public static void main(String[] args){
+	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
 
