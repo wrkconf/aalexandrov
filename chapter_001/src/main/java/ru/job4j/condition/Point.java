@@ -20,7 +20,6 @@ public class Point {
         Point a = new Point(0, 1);
         Point b = new Point(2, 5);
         a.distanceTo(b);
-
         double result = a.distanceTo(b);
         System.out.println("Расстояние между точками A и B: " + result);
     }
