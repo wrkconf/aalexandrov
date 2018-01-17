@@ -5,7 +5,7 @@ package ru.job4j;
   * @author Alexandr
   * @since 14.01.2018
   * @version 1
- */ 
+ */
 class Calculate {
 	/**
 	* Метод main (точка входа)
