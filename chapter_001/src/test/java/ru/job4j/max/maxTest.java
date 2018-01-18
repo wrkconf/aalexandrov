@@ -1,4 +1,4 @@
-package ru.job4j.test;
+package ru.job4j.max;
 
 import org.junit.Test;
 import ru.job4j.max.Max;
