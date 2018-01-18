@@ -13,6 +13,5 @@ public class CounterTest {
         Counter counter = new Counter();
         int result = counter.add(inputStart,inputFinish);
         assertThat(result, is(30));
-        //напишите здесь тест, проверяющий, что сумма чётных чисел от 1 до 10 при вызове метода counter.add будет равна 30.
     }
 }
